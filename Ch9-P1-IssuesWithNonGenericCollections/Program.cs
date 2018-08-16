@@ -19,9 +19,25 @@ namespace Ch9_P1_IssuesWithNonGenericCollections
 
             //UsePersonCollection();
 
-            UseGenericList();
+            //UseGenericList();
+
+            NonGenericSupportForGenericProperties();
 
             Console.ReadLine();
+        }
+
+        private static void NonGenericSupportForGenericProperties()
+        {
+            int[] myInts = { 10, 4, 2, 33, 93 };
+            // Specify the placeholder to the generic Sort<>() method.
+            Array.Sort<int>(myInts);
+            foreach (int i in myInts)
+            {
+                Console.WriteLine(i);
+            }
+
+            //Array.Sort() // loosely coupled sort method < non generic method >
+
         }
 
         private static void UseGenericList()
