@@ -10,9 +10,20 @@ namespace Ch9_P1_IssuesWithNonGenericCollections
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Lecture 9 ");
+            SimpleBoxUnboxOperation();
 
             Console.ReadLine();
+        }
+
+        private static void SimpleBoxUnboxOperation()
+        {
+            // Make a ValueType (int) variable.
+            int myInt = 25;
+            // Box the int into an object reference.
+            object boxedInt = myInt;
+
+            // Unbox the reference back into a corresponding int.
+            int unboxedInt = (int)boxedInt;
         }
     }
 }

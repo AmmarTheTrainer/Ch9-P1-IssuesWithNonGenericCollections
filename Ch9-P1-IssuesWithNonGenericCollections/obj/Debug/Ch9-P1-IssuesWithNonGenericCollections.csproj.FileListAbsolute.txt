@@ -5,3 +5,10 @@ C:\Users\Lenovo\Documents\Projects\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1
 C:\Users\Lenovo\Documents\Projects\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Projects\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.exe
 C:\Users\Lenovo\Documents\Projects\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\bin\Debug\Ch9-P1-IssuesWithNonGenericCollections.exe.config
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\bin\Debug\Ch9-P1-IssuesWithNonGenericCollections.exe
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\bin\Debug\Ch9-P1-IssuesWithNonGenericCollections.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.exe
+C:\Users\Lenovo\Documents\GitHub\Ch9-P1-IssuesWithNonGenericCollections\Ch9-P1-IssuesWithNonGenericCollections\obj\Debug\Ch9-P1-IssuesWithNonGenericCollections.pdb
